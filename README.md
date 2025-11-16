@@ -193,15 +193,8 @@ The analysis reveals:
 - The script handles missing data appropriately
 - Country names are extracted from location strings automatically
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
 ---
 
 **Made with ❤️ using Python and Pandas**
+
 
